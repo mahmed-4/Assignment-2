@@ -2,3 +2,14 @@
 
 
 
+/* extra */
+<section class="py-10 px-4">
+  <div class="relative inline-block">
+    <!-- Main Image -->
+    <img src="assets/flower-store.png" alt="" class="rounded-lg w-full max-w-md">
+
+    <!-- Badge Image -->
+    <img src="assets/trusted-badge.png" alt=""
+      class="absolute top-0 right-0  md:w-24 md:h-24 object-contain" style="width: 300px; height: 300px" />
+  </div>
+</section>
